@@ -1,73 +1,87 @@
-# 🧠 Desafios de SQL no Codewars
+# 📊 Estudos em SQL
 
-> 🚀 Repositório criado com o objetivo de registrar minha evolução em **SQL**, **lógica de consultas** e **análise de dados**, por meio da resolução de desafios (*Katas*) da plataforma [Codewars](https://www.codewars.com/).
-
----
-
-## 🧩 Sobre o Codewars
-
-O [Codewars](https://www.codewars.com/) é uma plataforma gamificada onde desenvolvedores e analistas resolvem desafios de programação chamados de *Katas*.
-
-Cada *kata* possui um **nível de dificuldade**, que varia de **8 kyu (iniciante)** até **1 kyu (avançado)**, permitindo acompanhar a evolução técnica ao longo do tempo.
-
-Neste repositório, o foco está em **SQL**, com ênfase em:
-- consultas eficientes
-- lógica de dados
-- manipulação e análise de informações em bancos relacionais
+> 🚀 Repositório criado para registrar meu aprendizado contínuo em **SQL**, **consultas a bancos de dados relacionais** e **análise de dados**, utilizando diferentes plataformas de estudo e exercícios práticos.
 
 ---
 
-## 🗄️ Tecnologias e ferramentas utilizadas
+## 🧠 Sobre o repositório
 
-* **SQL** (sintaxe padrão / compatível com MySQL, PostgreSQL e SQLite)
-* **Codewars**
-* **Git & GitHub**
+Este repositório reúne estudos em SQL realizados por meio de **plataformas educacionais** e **prática constante**, com foco no desenvolvimento de:
 
----
+- lógica de consultas
+- raciocínio analítico
+- manipulação e análise de dados
+- boas práticas em SQL
 
-## 📚 Conceitos praticados
-
-Ao longo dos desafios, são explorados conceitos como:
-
-- `SELECT`, `WHERE`, `ORDER BY`
-- Funções de agregação (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
-- `GROUP BY` e `HAVING`
-- `JOIN` (INNER, LEFT, RIGHT)
-- Subqueries
-- Manipulação de strings e datas
-- Lógica aplicada a dados reais
+O objetivo é consolidar conhecimentos fundamentais e evoluir gradualmente para consultas mais próximas de cenários reais de trabalho.
 
 ---
 
-## 📂 Estrutura do repositório
+## 📚 Plataformas utilizadas
+
+### 🔹 SQLBolt
+O [SQLBolt](https://sqlbolt.com/) é uma plataforma focada no ensino de **SQL aplicado**, por meio de lições progressivas e exercícios práticos.
+
+É utilizada neste repositório como **principal base de estudo**, por trabalhar conceitos essenciais de SQL em situações semelhantes às encontradas no dia a dia de quem atua com dados.
+
+---
+
+### 🔹 Codewars
+O [Codewars](https://www.codewars.com/) é uma plataforma de desafios (*Katas*) que permite praticar SQL de forma técnica e lógica.
+
+Os desafios são organizados por **nível de dificuldade**, que vai de **8 kyu (iniciante)** até **1 kyu (avançado)**.  
+Neste repositório, o Codewars é utilizado como **ferramenta complementar**, auxiliando no treino de sintaxe, lógica e resolução de problemas em SQL.
+
+---
+
+## 📂 Organização do repositório
 
 ```
-📁 Codewars-SQL/
+📁 Estudos-SQL/
 │
-├── 8kyu/ # Conceitos básicos de SQL
-├── 7kyu/
-├── 6kyu/
-├── 5kyu/ # Consultas intermediárias
-├── 4kyu/ # Consultas avançadas
-│
-└── README.md
+|── README.md  
+|
+|── 📁Codewars/
+|      |── README.md
+|      |
+|      |── 📁8Kyu/
+|      |         └── Atividades.sql
+|      |── 📁7Kyu/
+|      |         └── Atividades.sql
+|      |── 📁6Kyu/
+|                └── Atividades.sql
+|
+|── 📁SQLBolt/
+|        ├── README.md
+|        |     
+│        ├── Atividades.sql
+|        └──
+│                    
+└── 📁Projetos/
+
 ```
 
-> Cada pasta contém desafios organizados por nível de dificuldade, incluindo as queries SQL e, quando aplicável, explicações sobre o raciocínio utilizado.
+Cada pasta possui sua própria organização e, quando aplicável, um `README.md` com mais detalhes.
 
 ---
 
-## 🎯 Objetivo do repositório
+## 🎯 Objetivos
 
-- Consolidar o aprendizado em **SQL**
+- Consolidar os fundamentos de **SQL**
 - Desenvolver **raciocínio analítico aplicado a dados**
-- Criar um **portfólio público** de estudos e evolução técnica
-- Preparação para desafios reais da área de **Dados** e **Banco de Dados**
+- Manter um **histórico público de evolução**
+- Preparação para oportunidades na área de **Dados** e **Banco de Dados**
+
+---
+
+## 🛠 Tecnologias
+
+- SQL (compatível com MySQL, PostgreSQL e SQLite)
+- Git & GitHub
 
 ---
 
 ## 💬 Redes
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-orlandi-portes)
-
----
+         
