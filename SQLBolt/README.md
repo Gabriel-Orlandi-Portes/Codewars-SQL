@@ -29,7 +29,8 @@ Ao longo das lições do SQLBolt, são explorados conceitos como:
 
 - `SELECT`, `WHERE`, `ORDER BY`
 - `LIMIT` e `OFFSET`
-- `JOIN` (INNER e LEFT)
+- `JOIN` 
 - Funções de agregação (`COUNT`, `SUM`, `AVG`)
 - `GROUP BY` e `HAVING`
 - Filtros, ordenações e consultas analíticas
+
