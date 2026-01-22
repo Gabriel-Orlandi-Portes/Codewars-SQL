@@ -27,10 +27,11 @@ Esta pasta representa a **base principal de estudo em SQL** dentro do repositór
 
 Ao longo das lições do SQLBolt, são explorados conceitos como:
 
-- `SELECT`, `WHERE`, `ORDER BY`
+- `SELECT`, `WHERE`, `ORDER BY` OK
 - `LIMIT` e `OFFSET`
 - `JOIN` 
 - Funções de agregação (`COUNT`, `SUM`, `AVG`)
 - `GROUP BY` e `HAVING`
 - Filtros, ordenações e consultas analíticas
+
 
